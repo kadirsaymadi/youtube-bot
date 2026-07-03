@@ -1,7 +1,8 @@
 node_modules/
 dist/
 .env
-credentials/
+credentials/*
+!credentials/.gitkeep
 downloads/
 merged/
 logs/
