@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+credentials/
+downloads/
+merged/
+logs/
+*.log
+.DS_Store
+token.json
+client_secret.json
